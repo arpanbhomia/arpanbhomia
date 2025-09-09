@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Arpan Bhomia  
+# 🚀 Hey there, I’m Arpan Bhomia  
 
 💡 **About Me**  
 - Passionate about **Automation**, **Data Engineering**, and **AI**  
@@ -19,19 +19,37 @@
 
 ---
 
-### 💼 Experience
+### 💼 Experience  
 
-#### ![Apple Logo](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white) Apple Inc.  
-- Worked as a **Technical Specialist / QA Engineer**  
-- Trained customers and internal teams on Apple products  
-- Hands-on testing with **iOS, macOS, and Identity Services**  
-- Delivered automation test cases and improved workflows  
+#### ![Apple Logo](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white) Apple Inc. (QA Engineer)  
+- Built and executed **automation test cases** for Apple hardware and software  
+- Validated **iOS/macOS platforms, services, and identity systems**  
+- Designed test plans to ensure product quality across devices and OS versions  
+- Collaborated with cross-functional teams to identify, isolate, and resolve defects  
+
+---
 
 #### ![Meta Logo](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white) Meta (Contract Projects)  
 - Contributed to QA for **smart glasses and AR/VR products**  
 - Wrote automation scripts for hardware + software testing  
 - Reported defects, collaborated with devs, and validated fixes  
-- Gained exposure to **cutting-edge AR/AI ecosystems**  
+- Gained exposure to **AR/AI ecosystems** and rapid prototyping cycles  
+
+---
+
+#### ![Best Buy Logo](https://img.shields.io/badge/Best%20Buy-003B64?style=for-the-badge&logo=bestbuy&logoColor=yellow) Best Buy (E-Commerce QA Engineer)  
+- Worked on QA for **BestBuy.com** and internal systems  
+- Created and executed test cases across web and mobile platforms  
+- Validated product listings, checkout flows, and backend order management  
+- Collaborated with cross-functional teams to improve the customer experience  
+
+---
+
+#### ![Carlyle Group Logo](https://img.shields.io/badge/The%20Carlyle%20Group-002244?style=for-the-badge&logoColor=white) The Carlyle Group (Support Engineer)  
+- Provided IT and application support in a **global finance environment**  
+- Resolved incidents, monitored systems, and assisted with onboarding workflows  
+- Supported enterprise tools (Active Directory, Office 365, security services)  
+- Strengthened troubleshooting, documentation, and escalation skills  
 
 ---
 
@@ -56,11 +74,4 @@
 
 ---
 
-⚡ **Fun fact:** I started my GitHub with Selenium practice scripts and I’m building it into a portfolio of automation projects 🚀
-
-⚡ **Fun fact:** I started my GitHub with Selenium practice scripts and I’m building it into a portfolio of automation projects 🚀
-
-<!---
-arpanbhomia/arpanbhomia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⚡ **Fun fact:** I started with automating simple Selenium form tests — now I’m building **end-to-end frameworks that break, test, and validate apps across hardware, software, and the cloud** 🚀
