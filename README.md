@@ -19,6 +19,29 @@
 
 ---
 
+### 💼 Experience
+
+#### ![Apple Logo](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white) Apple Inc.  
+- Worked as a **Technical Specialist / QA Engineer**  
+- Trained customers and internal teams on Apple products  
+- Hands-on testing with **iOS, macOS, and Identity Services**  
+- Delivered automation test cases and improved workflows  
+
+#### ![Meta Logo](https://img.shields.io/badge/Meta-0467DF?style=for-the-badge&logo=meta&logoColor=white) Meta (Contract Projects)  
+- Contributed to QA for **smart glasses and AR/VR products**  
+- Wrote automation scripts for hardware + software testing  
+- Reported defects, collaborated with devs, and validated fixes  
+- Gained exposure to **cutting-edge AR/AI ecosystems**  
+
+---
+
+### 📊 GitHub Stats
+![Arpan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=arpanbhomia&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpanbhomia&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages)  
+
+---
+
 ### 🤝 Looking to Collaborate On
 - Open-source automation frameworks  
 - Beginner-friendly **JavaScript/Python** projects  
@@ -32,6 +55,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arpanbhomia)  
 
 ---
+
+⚡ **Fun fact:** I started my GitHub with Selenium practice scripts and I’m building it into a portfolio of automation projects 🚀
 
 ⚡ **Fun fact:** I started my GitHub with Selenium practice scripts and I’m building it into a portfolio of automation projects 🚀
 
